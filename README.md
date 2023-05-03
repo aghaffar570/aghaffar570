@@ -1,7 +1,7 @@
 <!-- v1 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-  <h2>Hi there 👋, I'm a developer & designer with a passion for indie hacking and community building 🚀</h2>
+  <h2>I'm a developer & designer with an interest in bootstrapping and community building</h2>
   <p>📫 Shoot me an Email or add me on LinkedIn :)</p>
   
   <div id="badges">
