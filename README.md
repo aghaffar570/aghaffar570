@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/> -->
   <h2>I'm a JavaScript Developer</h2>
-  <h3>Currenlty exploring web3 📚</h3>
+  <h3>Currently exploring web3 📚</h3>
   <p>If you'd like to talk, 📫 Shoot me an Email or message me on LinkedIn 🐥</p>
   
   <div id="badges">
